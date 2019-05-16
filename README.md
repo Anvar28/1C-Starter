@@ -2,6 +2,8 @@
 
 ## Удобна запускалка баз 1С.
 
+Написана на Delphi 7.
+
 1. Удобрый запуск базы в нужном режиме.
 2. Текстовое описание к текущей базе.
 3. Поиск баз в каталоге.
@@ -10,5 +12,15 @@
 6. Относительные пути.
 
 и и.д. и т.п.
+
+![](https://github.com/Anvar28/1C-Starter/blob/master/image/main.png)
+
+![](https://github.com/Anvar28/1C-Starter/blob/master/image/prop1.png)
+
+![](https://github.com/Anvar28/1C-Starter/blob/master/image/prop1.png)
+
+![](https://github.com/Anvar28/1C-Starter/blob/master/image/prop1.png)
+
+![](https://github.com/Anvar28/1C-Starter/blob/master/image/prop1.png)
 
 
