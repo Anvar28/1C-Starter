@@ -1,0 +1,8 @@
+[General]
+Name=Run1C
+Project=1
+[Classes]
+Count=3
+Class0="Tfrm1CRun","TForm","Unit1","13","H:\Projects\delphi\1Ñ\1C-Run_2\1Ñ-Run_26-06-04_v2-0-0\Unit1.pas"
+Class1="TfrmProperties","TForm","uFrmProperties","9","H:\Projects\delphi\1Ñ\1C-Run_2\1Ñ-Run_26-06-04_v2-0-0\uFrmProperties.pas"
+Class2="TfrmAddEditBase","TForm","uAddEditBase","9","H:\Projects\delphi\1Ñ\1C-Run_2\1Ñ-Run_26-06-04_v2-0-0\uAddEditBase.pas"
