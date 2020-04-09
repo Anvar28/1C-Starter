@@ -17,10 +17,10 @@
 
 ![](https://github.com/Anvar28/1C-Starter/blob/master/image/prop1.png)
 
-![](https://github.com/Anvar28/1C-Starter/blob/master/image/prop1.png)
+![](https://github.com/Anvar28/1C-Starter/blob/master/image/prop2.png)
 
-![](https://github.com/Anvar28/1C-Starter/blob/master/image/prop1.png)
+![](https://github.com/Anvar28/1C-Starter/blob/master/image/prop3.png)
 
-![](https://github.com/Anvar28/1C-Starter/blob/master/image/prop1.png)
+![](https://github.com/Anvar28/1C-Starter/blob/master/image/prop4.png)
 
 
